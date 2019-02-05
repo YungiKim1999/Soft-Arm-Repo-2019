@@ -24,6 +24,7 @@ Overview of Code:
    to dilate and erode image)
 6. The dilated and eroded image is then used to find contours/outline of the foreground (using cv:findContours)
 7. This is drawn onto a black background (using cv::drawContours)
+
 Note: More steps to add in order to reach final goal.
 
 CANNY EDGE DETECTION
